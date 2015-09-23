@@ -1,0 +1,9 @@
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\bin\Debug\AplicacionAnimacionC.exe.config
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\bin\Debug\AplicacionAnimacionC.exe
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\bin\Debug\AplicacionAnimacionC.pdb
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\obj\Debug\AplicacionAnimacionC.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\obj\Debug\AplicacionAnimacionC.Form1.resources
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\obj\Debug\AplicacionAnimacionC.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\obj\Debug\AplicacionAnimacionC.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\obj\Debug\AplicacionAnimacionC.exe
+C:\Users\LuiZz\Desktop\AplicacionAnimacionC\AplicacionAnimacionC\obj\Debug\AplicacionAnimacionC.pdb
